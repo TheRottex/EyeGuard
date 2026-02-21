@@ -48,6 +48,12 @@ Uygulama, kullanıcıları egzersiz yapmaya teşvik etmek için **farklı önem 
 - **Sarı:** önerilen  
 - **Mavi:** isteğe bağlı  
 
+## Planlar
+
+- **Free Plan:** Tarife planları ve kullanım detayları `docs/PLANS.md` içerisinde açıklanmıştır..
+- **Basic Plan:** Tarife planları ve kullanım detayları `docs/PLANS.md` içerisinde açıklanmıştır.
+- **Premium Plan:** Tarife planları ve kullanım detayları `docs/PLANS.md` içerisinde açıklanmıştır.
+
 Her görev için genellikle **60 saniyelik bir sayaç** bulunur; süre sonunda görev tamamlanmış olarak kaydedilebilir.
 
 ## Sık Sorulan Sorular

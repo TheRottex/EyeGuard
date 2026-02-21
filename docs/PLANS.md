@@ -3,14 +3,13 @@
 Aşağıdaki planlar, sunum dokümanındaki taslağa göre yazılmıştır:
 
 ## Free Plan
-- Kullanım süresi kısıtlı (örn. 2 saat)
-- Göz egzersizlerine erişim yok
+- EyeGuard v1.0.0'de Kısıtlama Yok.
 
-## Basic Plan
+## Basic Plan "EyeGuard v1.0.0'de Henüz Uygulamaya Geçilmedi."
 - Kullanım süresi sınırsız
 - Göz egzersizlerine erişim yok
 
-## Premium Plan
+## Premium Plan "EyeGuard v1.0.0'de Henüz Uygulamaya Geçilmedi."
 - Kullanım süresi sınırsız
 - Göz egzersizlerine erişim var
 - Aylık fiyatlandırma örnekleri: 82 TL / 52 TL / ücretsiz kupon senaryosu
