@@ -15,16 +15,6 @@
 Kural basittir: **Her 20 dakikada bir, 20 saniye boyunca yaklaşık 6 metre (20 fit) uzağa bakın.**  
 Bu, odaklanma kaslarını gevşetmeye yardımcı olur ve göz yorgunluğunu azaltır.
 
-## Ekran Görüntüleri
-
-| Ana Ekran | Hatırlatıcı / Bildirim |
-|---|---|
-| ![Ana Ekran](assets/ui_main.png) | ![Bildirim](assets/ui_notification.png) |
-
-| Molaya Geçiş Ekranı | Günlük Görevler / Egzersizler |
-|---|---|
-| ![Uyguladım, Devam Et](assets/ui_reminder_window.png) | ![Görevler](assets/ui_tasks.png) |
-
 ## İndirme & Kurulum
 
 Bu depoda **kaynak kod paylaşılmayabilir** (binary-only yayın). Uygulamayı indirmek için:
