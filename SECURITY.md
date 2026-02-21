@@ -2,8 +2,9 @@
 
 Bir güvenlik açığı bulduysanız lütfen herkese açık Issue açmak yerine aşağıdaki kanaldan bildirin:
 
-- E-posta: [security@...] (doldurun)
-- Konu: [EyeGuard Security] ...
+* E-posta: okanozbay@rottexproject.online
+* Konu: \[EyeGuard Security] ...
 
 ## Sürüm ve destek
-- Desteklenen sürümler: [örn. son 2 sürüm]
+
+* Desteklenen sürümler: v1.0.0
